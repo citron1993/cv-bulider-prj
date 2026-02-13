@@ -1,6 +1,22 @@
 {
-
-
-
-    
+  "fullName": "איתי",
+  "email": "ci@gmail.com",
+  "phone": "0545355458",
+  "summary": "תצוגה202020202020202020202020202020202020",
+  "educationObject": {
+    "institution": "הנדסאים תל אביב ",
+    "yearFinished": "2021"
+  },
+  "experiences": [
+    {
+      "id": 1771016126086,
+      "title": "פרקומט ",
+      "description": "תפקיד: פרקומט, תיאור: עובד חניונים רובוטיים"
+    },
+    {
+      "id": 1771016644038,
+      "title": "סווטד",
+      "description": "שדגדשג"
+    }
+  ]
 }
